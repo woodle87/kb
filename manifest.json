@@ -12,7 +12,7 @@
   "id": "com.bluewizard.kartbros",
   "theme_color": "#ffffff",
   "background": {
-    "service_worker": "TemplateData/sw.js"
+    "service_worker": "https://cdn.jsdelivr.net/gh/woodle87/kb@main/TemplateData/sw.js"
   },
   "display_override": [
     "standalone",
@@ -52,7 +52,7 @@
       "is192x192": false
     },
     {
-      "src": "TemplateData/splash.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/woodle87/kb@main/TemplateData/splash.jpg",
       "sizes": "1920x1080",
       "type": "image/jpeg",
       "purpose": "any"
@@ -60,7 +60,7 @@
   ],
   "images": [
     {
-      "src": "TemplateData/splash.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/woodle87/kb@main/TemplateData/splash.jpg",
       "sizes": "1920x1080",
       "type": "image/jpeg",
       "purpose": "any"
@@ -68,13 +68,13 @@
   ],
   "screenshots": [
     {
-      "src": "TemplateData/kb-ss1.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/woodle87/kb@main/TemplateData/kb-ss1.jpg",
       "type": "image/jpeg",
       "sizes": "1920x1080",
       "form_factor": "wide"
     },
     {
-      "src": "TemplateData/kb-ss2.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/woodle87/kb@main/TemplateData/kb-ss2.jpg",
       "type": "image/jpeg",
       "sizes": "1920x1080",
       "form_factor": "wide"
